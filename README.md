@@ -1,6 +1,6 @@
 # FlowerPowerLinux - Linux Extrem
 
-![Captura d'execució](https://github.com/vbinfor/flowerpowerlinux/tree/main/fpl.png "Captura de l'aplicació")
+![Captura d'execució](fpl.png "Captura de l'aplicació")
 
 ## Descripció
 
