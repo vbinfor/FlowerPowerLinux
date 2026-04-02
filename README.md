@@ -39,11 +39,13 @@ Este projecte està pensat per a:
 ## Execució
 
 - Mode de prova, sense log:
-docker run --rm -it vbinfor/FlowerPowerLinux:latest
+
+```docker run --rm -it vbinfor/FlowerPowerLinux:latest```
 
 - Mode competició amb log, es crea un volum "LOGS".
-docker run --rm -it -v LOGS:/LOGS vbinfor/FlowerPowerLinux:latest
+
+```docker run --rm -it -v LOGS:/LOGS vbinfor/FlowerPowerLinux:latest```
 
 
 ## HUB 
-[https://hub.docker.com/](https://hub.docker.com/r/vbinfor/FlowerPowerLinux)
+[hub.docker.com/r/vbinfor/FlowerPowerLinux](https://hub.docker.com/r/vbinfor/FlowerPowerLinux)
