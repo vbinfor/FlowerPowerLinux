@@ -1,5 +1,7 @@
 # FlowerPowerLinux - Linux Extrem
 
+![Captura d'execució](https://github.com/vbinfor/flowerpowerlinux/tree/main/fpl.png "Captura de l'aplicació")
+
 ## Descripció
 
 **FlowerPowerLinux** és un contenidor Linux basat en Ubuntu, dissenyat com a repte/activitat educativa per practicar ordres de terminal i conceptes avançats del sistema operatiu Linux.
